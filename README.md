@@ -1,5 +1,4 @@
 # StarHacks
-StarHacks Submission
 First, we will create a data class called Person with instance attributes that correspond with the following categories: Age Groups in Increments of 10, the Severity of Generalized Anxiety, the Mental health Compared to Before Physical Distancing, the Concern about impact of COVID-19 - Canadian population’s health, the Concern about impact of COVID-19 - Maintaining social ties, the Perceived Mental Health and COVID-19 impacts ability meet financial obligations or essential needs. 
 
 
