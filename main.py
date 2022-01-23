@@ -1,11 +1,4 @@
-"""
-CSC110 Fall 2021 Project: COVID-19 Related Anxiety across Different Age Groups in Canada
-===============================
-When this program is ran in the Python Console, multiple graphs based on a specific data file will
-be displayed.
-===============================
-Created by Tianyi Duan, Clara Hou, & Irene Huynh
-"""
+
 import csv
 from dataclasses import dataclass
 import plotly.graph_objects as go
